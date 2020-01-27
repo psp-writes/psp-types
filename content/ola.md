@@ -6,7 +6,8 @@ tags:
 - current
 
 ---
-Hi, there.
-{{< tweet 1219535934267502594 >}}
+Hi, ther
+
+ {{< tweet 1219535934267502594 >}}
 
 check 12
