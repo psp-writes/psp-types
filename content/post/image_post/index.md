@@ -1,11 +1,12 @@
 ---
-title: "Covering Up"
-date: 2020-01-19T18:58:36+05:30
-tags: ["okay" , "come"]
-draft: false
----
-Let's try something different today.
+title: Covering Up
+date: 2020-01-19T13:28:36.000+00:00
+tags:
+- okay
+- come
 
+---
+Let's try something
 
 {{< bootstrap-card
 img="joker still.jpg"
