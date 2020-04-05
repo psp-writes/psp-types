@@ -5,4 +5,4 @@
 
 	[submodule "public"]
 		path = public
-		url = https://github.com/psp-writes/psp-types/public
+		url = https://github.com/psp-writes/psp-types/public @ e89b01d
