@@ -8,7 +8,7 @@ title = "Test Post"
 
 Testing my Hugo Static Website integrated with [Forestry](https://forestry.io "F")...
 
-![](/uploads/Growth Ratio 23 March .png)
+![OK](/uploads/Growth Ratio 23 March .png "Ok")
 
 Let's try blockquote
 
