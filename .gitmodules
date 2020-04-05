@@ -1,8 +1,3 @@
 [submodule "themes/vanilla-bootstrap-hugo-theme"]
 	path = themes/vanilla-bootstrap-hugo-theme
 	url = https://github.com/zwbetz-gh/vanilla-bootstrap-hugo-theme.git
-
-
-	[submodule "public"]
-		path = public
-		url = https://github.com/psp-writes/psp-types/public @ e89b01d
