@@ -6,11 +6,6 @@ tags:
 - current
 
 ---
-Hi, there, hardie
+Hi, there dearie
 
  {{< tweet 1219535934267502594 >}}
-
-check 12
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MjM5MjM0MDldfQ==
--->
